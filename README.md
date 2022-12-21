@@ -4,7 +4,7 @@
 
 没有提供源码的则会自己实现或找比较好的复现代码。
 
-已搜集的文章：
+已拥有的论文代码：
 
 (2017-TOG) Kernel-predicting convolutional networks for denoising Monte Carlo renderings
 
