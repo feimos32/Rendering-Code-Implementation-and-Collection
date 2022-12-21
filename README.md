@@ -11,5 +11,7 @@
 (2017-TOG) （RAE）Interactive reconstruction of Monte Carlo image sequences using a recurrent denoising autoencoder
 
 
+参考链接：
 
+https://alain.xyz/blog/ray-tracing-denoising
 
