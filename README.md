@@ -6,6 +6,10 @@
 
 已拥有的论文代码：
 
-(2017-TOG) Kernel-predicting convolutional networks for denoising Monte Carlo renderings
+(2017-TOG) （KPCN）Kernel-predicting convolutional networks for denoising Monte Carlo renderings
+
+(2017-TOG) （RAE）Interactive reconstruction of Monte Carlo image sequences using a recurrent denoising autoencoder
+
+
 
 
